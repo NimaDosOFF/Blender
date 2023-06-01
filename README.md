@@ -1,6 +1,7 @@
 # 3D Модели смартфона и Заярдного устройства
 <p align='center'>
-<img src='https://sun9-35.userapi.com/impg/aT32pBh261sC1G7pvQSnEJeMXoCbfrs_VYyzZQ/ubwQwOx6dpQ.jpg?size=1920x1080&quality=96&sign=b3c05c52403968466e235b24eb470d07&type=album'> </p>
+<img src='https://sun9-35.userapi.com/impg/aT32pBh261sC1G7pvQSnEJeMXoCbfrs_VYyzZQ/ubwQwOx6dpQ.jpg?size=1920x1080&quality=96&sign=b3c05c52403968466e235b24eb470d07&type=album'>
+<img src='https://sun9-66.userapi.com/impg/ddWXek4l3UK2wLVuxLO9_udRE_dUMqJ_IBXhBQ/0m6QaqjtAuE.jpg?size=1920x1080&quality=96&sign=4289d2f814422dd1959c9ae19d487927&type=album'> </p>
 
 ## Программы
 - **Blender 3.5.1**
