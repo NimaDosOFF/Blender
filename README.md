@@ -11,7 +11,7 @@
 <p align='center'>
 <img src='https://sun9-29.userapi.com/impg/J_H89Uc2DY_jZ603L67nYVm4xjMha4anIXBDKw/6SP9CHxDA00.jpg?size=1780x853&quality=96&sign=0d2bc3f20dc0a80fff0cee580fb9245e&type=album'>
   
-<img src='https://sun9-29.userapi.com/impg/J_H89Uc2DY_jZ603L67nYVm4xjMha4anIXBDKw/6SP9CHxDA00.jpg?size=1780x853&quality=96&sign=0d2bc3f20dc0a80fff0cee580fb9245e&type=album'> </p>
+<img src='https://sun9-28.userapi.com/impg/VTe3WiD63g1e5UL5CFfMfemwV8fevKaRpOUIfA/lPxSLewCitQ.jpg?size=1578x1014&quality=96&sign=d5dc7510bece036e08e32197e54c4d6f&type=album'> </p>
 
 ## Если вы хотите изучить/улучшить модели
 - Файл моделей находится в репозитории
